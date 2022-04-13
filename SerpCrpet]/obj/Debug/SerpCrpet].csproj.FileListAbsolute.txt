@@ -1,0 +1,11 @@
+C:\Users\kvv.20\source\repos\SerpCrpet]\SerpCrpet]\bin\Debug\SerpCrpet].exe.config
+C:\Users\kvv.20\source\repos\SerpCrpet]\SerpCrpet]\bin\Debug\SerpCrpet].exe
+C:\Users\kvv.20\source\repos\SerpCrpet]\SerpCrpet]\bin\Debug\SerpCrpet].pdb
+C:\Users\kvv.20\source\repos\SerpCrpet]\SerpCrpet]\bin\Debug\Nakov.TurtleGraphics.dll
+C:\Users\kvv.20\source\repos\SerpCrpet]\SerpCrpet]\obj\Debug\SerpCrpet].csprojAssemblyReference.cache
+C:\Users\kvv.20\source\repos\SerpCrpet]\SerpCrpet]\obj\Debug\SerpCrpet_.Form1.resources
+C:\Users\kvv.20\source\repos\SerpCrpet]\SerpCrpet]\obj\Debug\SerpCrpet_.Properties.Resources.resources
+C:\Users\kvv.20\source\repos\SerpCrpet]\SerpCrpet]\obj\Debug\SerpCrpet].csproj.GenerateResource.cache
+C:\Users\kvv.20\source\repos\SerpCrpet]\SerpCrpet]\obj\Debug\SerpCrpet].csproj.CopyComplete
+C:\Users\kvv.20\source\repos\SerpCrpet]\SerpCrpet]\obj\Debug\SerpCrpet].exe
+C:\Users\kvv.20\source\repos\SerpCrpet]\SerpCrpet]\obj\Debug\SerpCrpet].pdb
